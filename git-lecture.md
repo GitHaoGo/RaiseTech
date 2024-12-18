@@ -1,4 +1,4 @@
-＃nanoでMarkdownを記述
+# nanoでMarkdownを記述
 
 nano git-lecture.mdというコマンドで開きました。
 
